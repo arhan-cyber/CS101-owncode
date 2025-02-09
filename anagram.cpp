@@ -36,6 +36,6 @@ int main(){
     for (int j=0; j<t; j++){
     int n, m;
     cin >> n >> m;
-    cout << isAnagram(n, m);
+    cout << isAnagram(n, m) << endl;
     }
 }
